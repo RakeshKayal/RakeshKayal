@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rakesh Kayal</h1>
-<h3 align="center">I am a backend Web Development Engineer🚀. I am interested in web technologies especially ![Uploading image.png…]()
+<h3 align="center">I am a backend Web Development Engineer🚀. I am interested in web technologies especially Uploading image.png…
  java and Spring -boot with a pang of great hunger for knowledge.
 </h3>
 
