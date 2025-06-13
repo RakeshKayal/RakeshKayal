@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Rakesh Kayal</h1>
-<h3 align="center">A passionate Frontend and Backend developer</h3>
+<h3 align="center">I am a backend Web Development Engineer🚀. I am interested in web technologies especially Java java and Spring spring with a pang of great hunger for knowledge.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakeshkayal&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshkayal" /> </p>
 
