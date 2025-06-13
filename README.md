@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Live Streaming Project**
 
-- 🌱 I’m currently learning **Spring -Boot**
+- 🌱 I’m currently learning **Spring -Event**
 
 - 💬 Ask me about **Spring -Boot, React**
 
