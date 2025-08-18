@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Spring -Event**
 
-- 💬 Ask me about **Spring -Boot, React**
+- 💬 Ask me about **Spring -Boot, **
 
 - 📫 How to reach me **rakeshkayal276@gmail.com**
 
