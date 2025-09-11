@@ -10,7 +10,6 @@ Recently, I’ve started diving into **Machine Learning**, applying my knowledge
 
 ---
 
-- 🔭 I’m currently working on **Live Streaming Project**
 - 🌱 I’m currently learning **Machine Learning & Spring Events**
 - 🤝 I’m applying ML by creating **models** and integrating them with **Spring Boot backend APIs**
 - 💬 Ask me about **Spring Boot, Java, REST APIs, and ML integration**
