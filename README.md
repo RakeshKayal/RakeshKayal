@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kayal</h1>
 <h3 align="center">
-I am a Backend Web Development Engineer 🚀 with strong expertise in Java and Spring Boot.  
-Recently, I’ve started diving into **Machine Learning**, applying my knowledge to build predictive models and integrate them with backend services.
+🚀 Passionate Backend Web Development Engineer | Java & Spring Boot Specialist  
+💡 Exploring Machine Learning | Building predictive models integrated with backend systems  
 </h3>
+
+<p align="center">
+I love creating impactful applications that blend **clean backend architecture** with **innovative tech**.  
+Currently, I’m expanding my skill set into **Machine Learning** and experimenting with **real-world integrations** 🌱.  
+</p>
+
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=rakeshkayal&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshkayal" /> 
