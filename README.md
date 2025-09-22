@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakesh Kayal</h1>
 <h3 align="center">
 🚀 Passionate Backend Web Development Engineer | Java & Spring Boot Specialist  
-💡 Exploring Machine Learning | Building predictive models integrated with backend systems  
+💡 Exploring Machine Learning | Building predictive models, api  integrated with backend systems  and Create Chrome-Extension  with this
 </h3>
 
 <p align="center">
