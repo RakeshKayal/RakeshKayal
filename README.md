@@ -10,13 +10,8 @@ Currently, I’m expanding my skill set into **Machine Learning** and experiment
 </p>
 
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=rakeshkayal&label=Profile%20views&color=0e75b6&style=flat" alt="rakeshkayal" /> 
-</p>
 
----
-
-- 🌱 I’m currently learning **Machine Learning & Spring Events**
+- 🌱 I’m currently learning **Machine Learning & Spring AI**
 - 🤝 I’m applying ML by creating **models** and integrating them with **Spring Boot backend APIs**
 - 💬 Ask me about **Spring Boot, Java, REST APIs, and ML integration**
 - 📫 How to reach me: **rakeshkayal276@gmail.com**
