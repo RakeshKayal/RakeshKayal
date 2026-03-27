@@ -12,8 +12,8 @@ Currently, I’m expanding my skill set into **Machine Learning** and experiment
 
 
 - 🌱 I’m currently learning **Spring AI**
-- 🤝 I’m applying ML by creating **models** and integrating them with **Spring Boot backend APIs**
-- 💬 Ask me about **Spring Boot, Java, REST APIs, and ML integration**
+- 🤝 I’m using ML **models** and integrating them with **Spring Boot backend APIs**
+- 💬 Ask me about **Spring Boot, Java, REST APIs,**
 - 📫 How to reach me: **rakeshkayal276@gmail.com**
 - ⚡  fact: ** if you want to buy something without looking at the price tag  work hard with smartness without looking at the clock **
 
