@@ -34,13 +34,7 @@
 
 ---
 
-### 🔥 Things I've built
 
-| Project | Description | Stack |
-|---|---|---|
-| [Predictive API](https://github.com/rakeshkayal/predictive-api) | REST API with prediction capabilities | Java, Spring Boot |
-| [Chrome Extension](https://github.com/rakeshkayal/chrome-ext) | Productivity tool with backend API | JavaScript, Java |
-| [Real-time Chat](https://github.com/rakeshkayal/chat-app) | WebSocket chat with live messaging | Spring, WebSocket |
 
 ---
 
