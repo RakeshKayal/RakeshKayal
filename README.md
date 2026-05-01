@@ -10,10 +10,10 @@
 
 ### 🧑‍💻 About me
 
-- ⭐ Passionate about building **scalable backend systems** with Java & Spring Boot
+- ⭐ Passionate about building **clean backend systems** with Java & Spring Boot
 - 🤖 Exploring **Spring AI** and building intelligent API integrations
 - 🏗️ Focused on **Clean Architecture** and **REST API design**
-- 🌏 Open to **new opportunities** — currently based in India 🇮🇳
+
 
 ---
 
